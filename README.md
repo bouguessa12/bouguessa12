@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bouguessa Mohamed alaa</h1>
-<h3 align="center">Phd student in artificial intelligence from algeria'🇩🇿'</h3>
+<h3 align="center">cs student  from algeria'🇩🇿'</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bouguessa12&label=Profile%20views&color=0e75b6&style=flat" alt="bouguessa12" /> </p>
 
