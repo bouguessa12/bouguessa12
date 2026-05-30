@@ -29,7 +29,7 @@ fun_fact: "I bridge design and code — pixels and logic."
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c" />
+  <img src="https://skillicons.dev/icons?i=python,c,javascript" />
 </p>
 
 **Frontend & Mobile**
