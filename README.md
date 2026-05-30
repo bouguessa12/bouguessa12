@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**bouguessa12/bouguessa12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<h1 align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=6C8EF5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohamed+Alaa+Bouguessa+%F0%9F%91%8B;AI+Student+%26+Full-Stack+Developer;Mobile+Developer+%7C+UI%2FUX+Designer" alt="Typing SVG" />
 </h1>
 
@@ -16,7 +13,6 @@
 
 ### 🧠 About Me
 
-```yaml
 name: Bouguessa Mohamed Alaa
 location: Algeria 🇩🇿
 role: AI Student & Full-Stack Developer
@@ -26,7 +22,6 @@ focus:
   - Designing clean, user-first interfaces
 currently_learning: [Deep Learning, System Design, Advanced React Patterns]
 fun_fact: "I bridge design and code — pixels and logic."
-```
 
 ---
 
@@ -119,15 +114,3 @@ fun_fact: "I bridge design and code — pixels and logic."
 <p align="center">
   <i>⭐ From <a href="https://github.com/bouguessa12">bouguessa12</a> — thanks for stopping by!</i>
 </p>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
