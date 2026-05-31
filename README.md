@@ -21,7 +21,6 @@
 
 ## `>` whoami
 
-```bash
 $ cat ./mohamed.alaa
 ─────────────────────────────────────────────────────
  ▸ name        Bouguessa Mohamed Alaa
@@ -33,7 +32,6 @@ $ cat ./mohamed.alaa
  ▸ contact     alabouguessa3@gmail.com
 ─────────────────────────────────────────────────────
 $ █
-```
 
 <br/>
 
