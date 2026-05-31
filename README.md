@@ -11,18 +11,14 @@
 
 ---
 
-### 🧠 About Me
+🧠 About Me
 
-name: Bouguessa Mohamed Alaa
-location: Algeria 🇩🇿
-role: AI Student & Full-Stack Developer
-focus:
-  - Building modern web & mobile apps
-  - Exploring AI / Machine Learning
-  - Designing clean, user-first interfaces
-currently_learning: [Deep Learning, System Design, Advanced React Patterns]
-fun_fact: "I bridge design and code — pixels and logic."
-
+🎓   AI Student based in Algeria 🇩🇿
+💻   Full-Stack & Mobile Developer — building web and mobile apps end-to-end
+🎨   UI/UX Designer — I care about how things look and feel
+🧪   Currently exploring Deep Learning and advanced React patterns
+⚡   Fun fact: I bridge design and code — pixels and logic
+📫   Reach me at alabouguessa3@gmail.com
 ---
 
 ### 🛠️ Tech Stack
