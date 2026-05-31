@@ -1,0 +1,110 @@
+<svg width="1200" height="400" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6C8EF5">
+        <animate attributeName="stop-color" values="#6C8EF5;#A855F7;#EC4899;#F59E0B;#6C8EF5" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#A855F7">
+        <animate attributeName="stop-color" values="#A855F7;#EC4899;#F59E0B;#6C8EF5;#A855F7" dur="10s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <radialGradient id="bgGrad" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#1e1b4b" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="1"/>
+    </radialGradient>
+
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="transparent"/>
+      <stop offset="50%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </linearGradient>
+
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#6C8EF5" stroke-width="0.5" opacity="0.1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="400" fill="url(#bgGrad)"/>
+  <rect width="1200" height="400" fill="url(#grid)"/>
+
+  <g opacity="0.8">
+    <circle cx="100" cy="80" r="3" fill="#6C8EF5">
+      <animate attributeName="cy" values="80;120;80" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0.2;0.8" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1100" cy="320" r="4" fill="#A855F7">
+      <animate attributeName="cy" values="320;280;320" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0.2;0.8" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="200" cy="320" r="2" fill="#EC4899">
+      <animate attributeName="cy" values="320;360;320" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1000" cy="100" r="2.5" fill="#F59E0B">
+      <animate attributeName="cy" values="100;60;100" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="500" cy="55" r="2" fill="#6C8EF5">
+      <animate attributeName="cy" values="55;85;55" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="800" cy="370" r="3" fill="#A855F7">
+      <animate attributeName="cy" values="370;340;370" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="350" cy="150" r="1.5" fill="#EC4899">
+      <animate attributeName="opacity" values="1;0;1" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="900" cy="250" r="1.5" fill="#F59E0B">
+      <animate attributeName="opacity" values="1;0;1" dur="4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g stroke="#6C8EF5" stroke-width="2" fill="none" opacity="0.5">
+    <path d="M 40 40 L 40 80 M 40 40 L 80 40"/>
+    <path d="M 1160 40 L 1160 80 M 1160 40 L 1120 40"/>
+    <path d="M 40 360 L 40 320 M 40 360 L 80 360"/>
+    <path d="M 1160 360 L 1160 320 M 1160 360 L 1120 360"/>
+  </g>
+
+  <text x="600" y="95" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#6C8EF5" text-anchor="middle" letter-spacing="8" opacity="0.9">
+    P O R T F O L I O   //   G I T H U B
+  </text>
+
+  <text x="600" y="185" font-family="Inter, Segoe UI, sans-serif" font-weight="900" font-size="68" fill="url(#nameGrad)" filter="url(#glow)" text-anchor="middle" letter-spacing="-2">
+    MOHAMED ALAA
+  </text>
+  <text x="600" y="245" font-family="Inter, Segoe UI, sans-serif" font-weight="300" font-size="42" fill="#e2e8f0" text-anchor="middle" letter-spacing="8">
+    BOUGUESSA
+  </text>
+
+  <line x1="500" y1="275" x2="700" y2="275" stroke="url(#lineGrad)" stroke-width="2" filter="url(#softGlow)">
+    <animate attributeName="x1" values="600;400;600" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="600;800;600" dur="4s" repeatCount="indefinite"/>
+  </line>
+
+  <text x="600" y="315" font-family="JetBrains Mono, Consolas, monospace" font-size="15" fill="#94a3b8" text-anchor="middle" letter-spacing="2">
+    &lt;/&gt;  AI STUDENT  •  FULL-STACK  •  MOBILE  •  UI/UX
+  </text>
+
+  <rect x="935" y="303" width="2" height="16" fill="#6C8EF5">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="600" y="350" font-family="Inter, Segoe UI, sans-serif" font-size="14" fill="#64748b" text-anchor="middle" font-style="italic">
+    "Where design meets engineering."
+  </text>
+</svg>
