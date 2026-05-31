@@ -3,7 +3,7 @@
 <!-- ============================================== -->
 
 <p align="center">
-  <img src="./assets/hero.svg" alt="Mohamed Alaa Bouguessa" width="100%"/>
+  <img src="./hero.svg" alt="Mohamed Alaa Bouguessa" width="100%"/>
 </p>
 
 <p align="center">
