@@ -11,19 +11,15 @@
 
 ---
 
-🧠 About Me
+### 🧠 About Me
 
-🎓   AI Student based in Algeria 🇩🇿 
+- 🎓 &nbsp; **AI Student** based in Algeria 🇩🇿
+- 💻 &nbsp; **Full-Stack & Mobile Developer** — building web and mobile apps end-to-end
+- 🎨 &nbsp; **UI/UX Designer** — I care about how things look *and* feel
+- 🧪 &nbsp; Currently exploring **Deep Learning** and **advanced React patterns**
+- ⚡ &nbsp; Fun fact: I bridge design and code — pixels and logic
+- 📫 &nbsp; Reach me at **alabouguessa3@gmail.com**
 
-💻   Full-Stack & Mobile Developer — building web and mobile apps end-to-end
-
-🎨   UI/UX Designer — I care about how things look and feel
-
-🧪   Currently exploring Deep Learning and advanced React patterns
-
-⚡   Fun fact: I bridge design and code — pixels and logic
-
-📫   Reach me at alabouguessa3@gmail.com
 ---
 
 ### 🛠️ Tech Stack
@@ -73,23 +69,61 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛍️ Just Put On</h3>
+    <td colspan="2" valign="top">
+      <h3 align="center">🧠 Epilepsy Detection Platform</h3>
       <p align="center">
-        <a href="https://github.com/bouguessa12/just-put-on-shop">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bouguessa12&repo=just-put-on-shop&theme=tokyonight&hide_border=true" />
+        Full-stack EEG-based system for monitoring and detecting epileptic activity.
+        Includes an <b>EEG Reader</b>, a <b>Simulator</b> for testing, a <b>Backend</b> for signal processing,
+        and <b>Neurix</b> — a chatbot built to assist patients and clinicians.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI-FF6F00?style=flat&logo=openai&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/minou205/epilepsy-project">
+          <img src="https://img.shields.io/badge/View_Repository-6c8ef5?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center">Premium men's fashion e-commerce site — clean UI, smooth checkout flow.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ AML — Anti-Money Laundering</h3>
+      <p align="center">
+        Machine learning system designed to detect suspicious financial transactions
+        and flag potential money laundering patterns.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/bouguessa12/AML">
+          <img src="https://img.shields.io/badge/View_Repository-6c8ef5?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">💼 Hirevo</h3>
       <p align="center">
+        Job platform connecting talent with opportunity — clean UX, modern stack,
+        built around a smooth candidate flow.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+      </p>
+      <p align="center">
         <a href="https://github.com/bouguessa12/HIREVO-WEBSITE-">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=bouguessa12&repo=HIREVO-WEBSITE-&theme=tokyonight&hide_border=true" />
+          <img src="https://img.shields.io/badge/View_Repository-6c8ef5?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center">Job platform built with TypeScript — connecting talent with opportunity.</p>
     </td>
   </tr>
 </table>
