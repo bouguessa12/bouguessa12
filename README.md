@@ -38,8 +38,7 @@
 <!--                  TECH STACK                    -->
 <!-- ============================================== -->
 
-## `>` arsenal
-
+> arsenal
 <table align="center">
   <tr>
     <td align="center" width="160"><b>Languages</b></td>
@@ -50,6 +49,10 @@
     <td><img src="https://skillicons.dev/icons?i=nextjs,react,flutter,dart&perline=8"/></td>
   </tr>
   <tr>
+    <td align="center"><b>Backend / Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,supabase,postgres,firebase,mongodb&perline=8"/></td>
+  </tr>
+  <tr>
     <td align="center"><b>AI / ML</b></td>
     <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=8"/></td>
   </tr>
@@ -58,7 +61,6 @@
     <td><img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=8"/></td>
   </tr>
 </table>
-
 <br/>
 
 <!-- ============================================== -->
