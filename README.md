@@ -67,17 +67,13 @@
 
 > metrics
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bouguessa12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouguessa12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bouguessa12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouguessa12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bouguessa12&theme=tokyonight&hide_border=true"/>
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bouguessa12&theme=tokyonight&no-frame=true&column=7&margin-w=10"/>
-</p>
 <br/>
-
 
 <!-- ============================================== -->
 <!--                  PROJECTS                      -->
