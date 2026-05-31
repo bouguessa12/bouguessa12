@@ -1,15 +1,29 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=6C8EF5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohamed+Alaa+Bouguessa+%F0%9F%91%8B;AI+Student+%26+Full-Stack+Developer;Mobile+Developer+%7C+UI%2FUX+Designer" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bouguessa12&label=Profile%20views&color=6c8ef5&style=flat" alt="profile views" />
-  <a href="https://github.com/bouguessa12?tab=followers">
-    <img src="https://img.shields.io/github/followers/bouguessa12?label=Followers&style=flat&color=6c8ef5" alt="followers" />
+<!-- ===== ANIMATED WAVE BANNER ===== -->
+<a href="https://github.com/bouguessa12">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohamed%20Alaa%20Bouguessa&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Student%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Mobile%20%E2%80%A2%20UI%2FUX&descAlignY=60&descSize=18" width="100%" alt="banner"/>
+</a>
+<!-- ===== WAVING HAND GREETING ===== -->
+<h2 align="center">
+  Hey there!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38" alt="waving hand" />
+  Welcome to my corner of the internet
+</h2>
+<!-- ===== MULTI-LINE TYPING ANIMATION ===== -->
+<div align="center">
+  <a href="https://github.com/bouguessa12">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=6C8EF5&center=true&vCenter=true&multiline=true&width=700&height=130&lines=%F0%9F%A4%96+AI+Student+%26+Researcher;%F0%9F%92%BB+Full-Stack+%26+Mobile+Developer;%F0%9F%8E%A8+UI%2FUX+%26+Graphic+Designer;%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time" alt="typing animation" />
   </a>
+</div>
+<!-- ===== ANIMATED RAINBOW DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
+<!-- ===== PROFILE STATS BADGES ===== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bouguessa12&label=Profile%20views&color=6c8ef5&style=for-the-badge" alt="profile views" />
+  <a href="https://github.com/bouguessa12?tab=followers">
+    <img src="https://img.shields.io/github/followers/bouguessa12?label=Followers&style=for-the-badge&color=6c8ef5" alt="followers" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full--Stack-A855F7?style=for-the-badge" alt="focus" />
 </p>
-
----
 
 ### 🧠 About Me
 
