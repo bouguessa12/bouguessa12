@@ -13,11 +13,16 @@
 
 🧠 About Me
 
-🎓   AI Student based in Algeria 🇩🇿
+🎓   AI Student based in Algeria 🇩🇿 
+
 💻   Full-Stack & Mobile Developer — building web and mobile apps end-to-end
+
 🎨   UI/UX Designer — I care about how things look and feel
+
 🧪   Currently exploring Deep Learning and advanced React patterns
+
 ⚡   Fun fact: I bridge design and code — pixels and logic
+
 📫   Reach me at alabouguessa3@gmail.com
 ---
 
