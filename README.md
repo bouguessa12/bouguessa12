@@ -21,18 +21,12 @@
 
 ## `>` whoami
 
-$ cat ./mohamed.alaa
-─────────────────────────────────────────────────────
- ▸ name        Bouguessa Mohamed Alaa
- ▸ location    Algeria 🇩🇿
- ▸ role        AI Student · Full-Stack & Mobile Developer
- ▸ designs     UI/UX · Graphic
- ▸ learning    Deep Learning · Advanced React patterns
- ▸ philosophy  "Where design meets engineering."
- ▸ contact     alabouguessa3@gmail.com
-─────────────────────────────────────────────────────
-$ █
-
+🎓   AI Student based in Algeria 🇩🇿
+💻   Full-Stack & Mobile Developer — building web and mobile apps end-to-end
+🎨   UI/UX Designer — I care about how things look and feel
+🧪   Currently exploring Deep Learning and advanced React patterns
+⚡   Fun fact: I bridge design and code — pixels and logic
+📫   Reach me at alabouguessa3@gmail.com
 <br/>
 
 <!-- ============================================== -->
