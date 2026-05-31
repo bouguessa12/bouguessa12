@@ -66,10 +66,25 @@
 <!-- ============================================== -->
 
 > metrics
+<!-- ===== STAT PILLS ===== -->
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bouguessa12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouguessa12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
+  <a href="https://github.com/bouguessa12?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-2-6C8EF5?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Total%20Stars-2-A855F7?style=for-the-badge&logo=star&logoColor=white"/>
+  <img src="https://img.shields.io/github/followers/bouguessa12?label=Followers&style=for-the-badge&color=EC4899"/>
+  <img src="https://img.shields.io/badge/Member%20Since-2023-F59E0B?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+<!-- ===== TOP LANGUAGES ===== -->
+<p align="center"><b>Most Used Languages</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+</p>
+<!-- ===== STREAK (working) ===== -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bouguessa12&theme=tokyonight&hide_border=true"/>
 </p>
